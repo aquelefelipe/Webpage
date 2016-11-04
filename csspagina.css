@@ -1,0 +1,46 @@
+.barra_lateral_esquerda {
+	position: fixed;
+}
+
+.foto-perfil{
+	width: 100%;
+}
+
+.logo-nome{
+	width: 70%;
+}
+
+.pagina_geral{
+	background-color: #BE3224;
+	float: right;
+}
+
+.descricao-perfil{
+	font-size: 20pt;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 60px;
+	margin-left: 60px;
+	text-align: center;
+}
+
+.face-icon{
+	width: 100%;
+	margin-bottom: 30px;
+	/*height: 50%;*/
+}
+
+.insta-icon{
+	width: 100%;
+	margin-bottom: 30px;
+	/*height: 50%;*/
+}
+
+p{
+	color: white;
+}
+
+li{
+	font-size: 15pt;
+	color: white;
+}
